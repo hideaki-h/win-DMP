@@ -1,0 +1,22 @@
+:BASE DMP.hlp
+:Title Digital Midi Player
+1 DMPについて =TITLE0000
+1 動作環境 =TITLE0001
+1 仕様 =TITLE0007
+1 ヒストリー =TITLE0008
+1 操作
+2 再生 =TITLE0017
+2 最初から再生 =TITLE0018
+2 停止 =TITLE0019
+2 一時停止 =TITLE0020
+2 リピート =TITLE0021
+2 演奏速度 =TITLE0022
+1 オプション
+2 表示 =TITLE0026
+2 演奏インターフェイス =TITLE0003
+2 ポート割り当て =TITLE0009
+1 用語集
+2 MIDI =TITLE0015
+2 ポート =TITLE0011
+2 ボイス =TITLE0012
+2 MIFファイル =TITLE0014
